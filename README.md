@@ -14,3 +14,8 @@
 
 Como decia Rajoy:
 > Un vaso es un vaso y un plato es un plato
+
+Hola | Hola
+-----|------
+Buenas | Buenas
+Noches | Noches
