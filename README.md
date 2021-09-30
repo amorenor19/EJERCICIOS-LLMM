@@ -11,3 +11,6 @@
 *Italica*
 
 [Enlace](https://www.google.com/)
+
+Como decia Rajoy:
+> Un vaso es un vaso y un plato es un plato
