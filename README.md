@@ -24,4 +24,4 @@ Hola | Hola
 Buenas | Buenas 
 Noches | Buenas
 
-#falta el grafico que es la imagen 
+![messirve](https://github.com/amorenor19/EJERCICIOS-LLMM/blob/main/IMAGENES/search.jpg) 
