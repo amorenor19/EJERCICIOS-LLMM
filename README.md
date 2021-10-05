@@ -24,4 +24,4 @@ Hola | Hola
 Buenas | Buenas 
 Noches | Buenas
 
-![messirve](/EJERCICIOS-LLMM/IMAGENES/descarga.jpg) 
+![messirve](/IMAGENES/descarga.jpg) 
